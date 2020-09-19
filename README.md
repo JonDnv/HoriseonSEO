@@ -14,7 +14,9 @@ were made to the site:
    - An "alt" tag was added to all images
    - The href link for "search-engine-optimization" was fixed
    - Other basic HTML formatting was changed in order to refactor the site.
-2.
+2. In the CSS file:
+   - Extraneous entries were eliminated including an replaced:
+     - .benifit-lead, .benefit-brand, & .benefit-cost were replaced with .benefit-sub
 
 ## Site Links
 
