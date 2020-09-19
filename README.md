@@ -2,9 +2,24 @@
 
 ## Description
 
-Refactoring the website for Horiseon in order to improve code and to make site more accessible.
+Horiseon is a search engine optimization company.
+The goal of the project is to refactor the company website
+in order to improve performance and accessibility.
 
-Updated the HTML Title to "Horiseon Search Engine Optimization"
-Fixed "Search Engine Optimization href so it moved page to that section.
-Line 68 - Removed img closing tag as it is self-closing.
-Added "alt" to all images for accessibility.
+In order to achieve these ends, the following changes
+were made to the site:
+
+1. In the HTML file, the title tag was updated,
+   an "alt" tag was added to all images, and the href
+   link for "search-engine-optimization" was fixed.
+   In addition, other basic HTML formatting was changed
+   in order to refactor the site.
+2.
+
+## Site Links
+
+## Mock-Up
+
+The following image shows the finished site:
+
+![Website](./Assets/Website.png)
