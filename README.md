@@ -17,6 +17,7 @@ were made to the site:
 2. In the CSS file:
    - Extraneous entries were eliminated including an replaced:
      - .benifit-lead, .benefit-brand, & .benefit-cost were replaced with .benefit-sub
+     - .search-engine-optimization, .online-reputation-management, & .social-media-marketing were replaced with .work-category
 
 ## Site Links
 
