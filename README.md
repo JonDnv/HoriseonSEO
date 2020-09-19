@@ -9,11 +9,11 @@ in order to improve performance and accessibility.
 In order to achieve these ends, the following changes
 were made to the site:
 
-1. In the HTML file, the title tag was updated,
-   an "alt" tag was added to all images, and the href
-   link for "search-engine-optimization" was fixed.
-   In addition, other basic HTML formatting was changed
-   in order to refactor the site.
+1. In the HTML file:
+   - The title tag was updated
+   - An "alt" tag was added to all images
+   - The href link for "search-engine-optimization" was fixed
+   - Other basic HTML formatting was changed in order to refactor the site.
 2.
 
 ## Site Links
