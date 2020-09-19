@@ -18,6 +18,9 @@ were made to the site:
 
 ## Site Links
 
+- [Horiseon Homepage](https://jondnv.github.io/HoriseonSEO/)
+- [Github Page](https://github.com/JonDnv/HoriseonSEO)
+
 ## Mock-Up
 
 The following image shows the finished site:
