@@ -25,7 +25,7 @@ body {
 }
 
 /* Changes the text color for the "seo" text in the header */
-.header h1 .seo {
+.header h1 #seo {
   color: #d9dcd6;
 }
 
